@@ -1,0 +1,10 @@
+{
+	"name": "TestLauncherExample",
+	"dependencies": {
+		"express": "4.12.x",
+		"superagent": "^0.21.0",
+		"q": "^1.4.1",
+		"random-js": "^1.0.8",
+		"sync-request": "^3.0.0"
+	}
+}
