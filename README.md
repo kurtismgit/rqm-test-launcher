@@ -15,3 +15,7 @@ This is an application that is used to wrapper the RQM Execution Tool used to in
 [RQM Command-Line Adapter](https://jazz.net/library/article/809)  
 [Look in all downloads section for your version of RQM](https://jazz.net/downloads/rational-quality-manager)
 
+## License
+
+This project is made available under the MIT license. Please see [LICENSE.txt](./LICENSE.txt) for details.
+
